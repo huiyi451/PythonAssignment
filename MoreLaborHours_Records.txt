@@ -1,0 +1,4 @@
+Year,Batch_ID,Furniture_Name,Production,Labor_Hours,Laborhours_Perunit
+2013.0,103375.0,Johnson Chair,580.0,1900,3.2758620689655173
+2013.0,103422.0,Clark Table,122727.0,140250,1.142780317289594
+2013.0,103389.0,Carbon Hill Chair,76241.0,84966,1.114439737149303
